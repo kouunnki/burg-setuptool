@@ -1,4 +1,4 @@
 [submodule "burg-toolkit"]
 	path = burg-toolkit
-	url = git@github.com:mrudorfer/burg-toolkit.git
+	url = https://github.com/mrudorfer/burg-toolkit.git
 	branch = dev_setuptool
